@@ -17,9 +17,9 @@ export function HomePage() {
       <main>
         <div className="container py-8">
           <img
-            src="./banner.webp"
+            src="https://lh3.googleusercontent.com/spp/AFLdkbE9sX-lv1mcIy38Gq-ulv7k3wvL8UShD0tvF41Mg6b3ULdDAeFebfmt318KggO_ebNTDgaIxvAeDCfrxV8y9D5OMkDwLkphXAfTu35MzSAdRwA9vagUIJ7_P-DMMe5B7sy3dMjngEx8sHfCTgtF9vEAmKJ-o1eukp46uTEz=w1024-h337-rw-pc0x00ffffff"
             alt="Banner promozionale"
-            className="w-full max-w-2xl mx-auto h-auto object-cover rounded-lg mb-8"
+            className="w-full h-auto object-cover rounded-lg mb-8"
           />
         </div>
 
